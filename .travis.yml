@@ -5,7 +5,7 @@ dotnet: 2.0.0
 dist: trusty
 script:
 - dotnet restore
-- dotenet test ./UnitTestProject1/Tests.csproj
+- dotnet test ./UnitTestProject1/Tests.csproj
 - dotnet build -c Release
 - dotnet publish -c Release -o ./ConsoleApp1/publish
 deploy:
