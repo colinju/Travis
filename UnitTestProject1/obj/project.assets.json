@@ -5646,11 +5646,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\julien\\source\\repos\\ConsoleApp1\\UnitTestProject1\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\julien\\Documents\\Cours\\Test\\UnitTestProject1\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\julien\\source\\repos\\ConsoleApp1\\UnitTestProject1\\Tests.csproj",
+      "projectPath": "C:\\Users\\julien\\Documents\\Cours\\Test\\UnitTestProject1\\Tests.csproj",
       "packagesPath": "C:\\Users\\julien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julien\\source\\repos\\ConsoleApp1\\UnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\julien\\Documents\\Cours\\Test\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5669,8 +5669,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\julien\\source\\repos\\ConsoleApp1\\ClassLibrary1\\Logic.csproj": {
-              "projectPath": "C:\\Users\\julien\\source\\repos\\ConsoleApp1\\ClassLibrary1\\Logic.csproj"
+            "C:\\Users\\julien\\Documents\\Cours\\Test\\ClassLibrary1\\Logic.csproj": {
+              "projectPath": "C:\\Users\\julien\\Documents\\Cours\\Test\\ClassLibrary1\\Logic.csproj"
             }
           }
         }

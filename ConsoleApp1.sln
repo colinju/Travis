@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "ConsoleApp1\UI.csproj", "{4A9D1BD0-C2DB-4834-BE0A-8860DFDBEE66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "ConsoleApp1\UI.csproj", "{4A9D1BD0-C2DB-4834-BE0A-8860DFDBEE66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "UnitTestProject1\Tests.csproj", "{C530A639-9077-431D-8559-9BEEEAF8BE58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "UnitTestProject1\Tests.csproj", "{C530A639-9077-431D-8559-9BEEEAF8BE58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "ClassLibrary1\Logic.csproj", "{DD61D6AA-5847-4001-980C-C533DE7C97A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic", "ClassLibrary1\Logic.csproj", "{DD61D6AA-5847-4001-980C-C533DE7C97A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACBEBA42-30C7-4C05-B24C-4994A3A50BB0}"
+	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

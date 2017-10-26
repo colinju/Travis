@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\julien\\source\\repos\\ConsoleApp1\\ClassLibrary1\\Logic.csproj",
+      "projectUniqueName": "C:\\Users\\julien\\Documents\\Cours\\Test\\ClassLibrary1\\Logic.csproj",
       "projectName": "Logic",
-      "projectPath": "C:\\Users\\julien\\source\\repos\\ConsoleApp1\\ClassLibrary1\\Logic.csproj",
+      "projectPath": "C:\\Users\\julien\\Documents\\Cours\\Test\\ClassLibrary1\\Logic.csproj",
       "packagesPath": "C:\\Users\\julien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julien\\source\\repos\\ConsoleApp1\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\julien\\Documents\\Cours\\Test\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
