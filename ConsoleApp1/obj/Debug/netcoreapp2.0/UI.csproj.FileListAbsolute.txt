@@ -1,0 +1,13 @@
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\UI.deps.json
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\UI.runtimeconfig.json
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\UI.runtimeconfig.dev.json
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\UI.dll
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\UI.pdb
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\UI.csprojResolveAssemblyReference.cache
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\UI.AssemblyInfoInputs.cache
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\UI.AssemblyInfo.cs
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\UI.dll
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\UI.pdb
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Logic.dll
+C:\Users\julien\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Logic.pdb

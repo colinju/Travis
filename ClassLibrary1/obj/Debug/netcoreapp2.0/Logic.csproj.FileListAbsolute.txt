@@ -1,0 +1,9 @@
+C:\Users\julien\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\netcoreapp2.0\Logic.deps.json
+C:\Users\julien\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\netcoreapp2.0\Logic.dll
+C:\Users\julien\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\netcoreapp2.0\Logic.pdb
+C:\Users\julien\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp2.0\Logic.csprojResolveAssemblyReference.cache
+C:\Users\julien\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp2.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\julien\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp2.0\Logic.AssemblyInfoInputs.cache
+C:\Users\julien\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp2.0\Logic.AssemblyInfo.cs
+C:\Users\julien\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp2.0\Logic.dll
+C:\Users\julien\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netcoreapp2.0\Logic.pdb
